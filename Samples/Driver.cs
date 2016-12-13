@@ -20,7 +20,7 @@ namespace MySample
 
             try
             {
-                //ModbusTcpMasterReadInputs();
+                ModbusTcpMasterReadInputs();
                 //SimplePerfTest();
                 //ModbusSerialRtuMasterWriteRegisters();
                 //ModbusSerialAsciiMasterReadRegisters();
